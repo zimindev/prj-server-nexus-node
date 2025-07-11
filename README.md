@@ -43,5 +43,5 @@ graph TD
     A -->|Syncthing| E(Pulse Node)  
     A -->|RDP| F[Remote Clients]  
     G[UPS Battery] --> A  
-    H[4G Failover Internet] --> A  
+    H[Failover Internet] --> A
 ``` 
