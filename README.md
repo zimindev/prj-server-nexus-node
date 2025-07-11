@@ -44,25 +44,4 @@ graph TD
     A -->|RDP| F[Remote Clients]  
     G[UPS Battery] --> A  
     H[4G Failover Internet] --> A  
-```  
-
----
-
-## 🔥 Why This Setup?  
-- **Centralized Control:** Single hub for all devices.  
-- **Disaster-Ready:** Battery + internet redundancy.  
-- **Scalable:** Add more nodes anytime.  
-
-> **Codename:** **CELESTIAL** – The gravitational center of your device ecosystem.  
-
----  
-
-### Notes:  
-- Replace `[Remote Clients]` with specific client names if needed.  
-- Consider adding a **"Sync Rules"** section if you have custom folder filters/exclusions.  
-
-This version:  
-✅ Clearly maps all your nodes  
-✅ Uses Mermaid for visual clarity  
-✅ Highlights failover capabilities  
-✅ Maintains a professional/dev-friendly tone
+``` 
