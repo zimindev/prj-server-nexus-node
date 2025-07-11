@@ -1,3 +1,5 @@
+<img width="1861" height="1006" alt="image" src="https://github.com/user-attachments/assets/8a2e8684-f264-4cb5-ab84-01cebc8b2d0c" />
+
 # 🚀 Nexus Node (CELESTIAL) - Central Sync & Cloud Hub  
 
 **Role:** 24/7 cloud server for cross-device synchronization (files, directories) and secure remote access, with built-in UPS protection.  
